@@ -6,9 +6,6 @@ This is a simple stack implementation in Java. The stack supports basic operatio
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
